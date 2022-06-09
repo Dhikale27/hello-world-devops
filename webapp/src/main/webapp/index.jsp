@@ -4,7 +4,8 @@
     <h3>This is Sachin Dhikale Who Edit the file 6th times</h3>
     <hr>
     <h4>Quoate of The Day: </h4>
-    <p><b>The whole secret of a successful life is to find out what is one’s destiny to do, and then do it...... -- Albert Einstein</b></p>
+    <p><b>If life were predictable it would cease to be life, and be without flavor....... -- Albert Einstein</b></p>
+
 
     <br>
     <br>
