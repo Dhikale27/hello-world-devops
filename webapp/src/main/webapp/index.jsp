@@ -1,8 +1,13 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h3>Hi... This is Sachin Dhikale Who Edit the file 5th times</h3>
-    <h6>I like to code freely</h6>
+    <h3>Hi... This is Sachin Dhikale Who Edit the file 6th times</h3>
+    <hr>
+    <h4>Quoate of The Day: </h4>
+    <p><b>If you want to live a happy life, tie it to a goal, not to people or things...... -- Albert Einstein</b></p>
+    <br>
+    <br>
+    <hr>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
