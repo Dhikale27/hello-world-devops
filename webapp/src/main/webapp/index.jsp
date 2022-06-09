@@ -1,10 +1,11 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h3>Hi... This is Sachin Dhikale Who Edit the file 6th times</h3>
+    <h3>This is Sachin Dhikale Who Edit the file 6th times</h3>
     <hr>
     <h4>Quoate of The Day: </h4>
-    <p><b>If you want to live a happy life, tie it to a goal, not to people or things...... -- Albert Einstein</b></p>
+    <p><b>The whole secret of a successful life is to find out what is one’s destiny to do, and then do it...... -- Albert Einstein</b></p>
+
     <br>
     <br>
     <hr>
