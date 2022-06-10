@@ -4,7 +4,8 @@
     <h3>This is Sachin Dhikale Who Edit the file 6th times</h3>
     <hr>
     <h4>Quoate of The Day: </h4>
-    <p><b>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time....... -- Albert Einstein</b></p>
+    <p><b>Excellence is not a skill, it's an attitude........ -- Albert Einstein</b></p>
+
 
 
     <br>
