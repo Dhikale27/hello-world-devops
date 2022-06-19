@@ -2,13 +2,7 @@
 
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h3>This is Sachin Dhikale Who Edit the file 6th times</h3>
-    <hr>
-    <h4>Quoate of The Day: </h4>
-    <p><b>Excellence is not a skill, it's an attitude........ -- Albert Einstein</b></p>
-    <br>
-    <br>
-    <p><b>Life isn't about finding yourself. Life is about creating yourself................... - Adolf Hitler</b></p>
+    <h3>This is Sachin Dhikale Who Edit the file 10th times</h3>
 
 
 
