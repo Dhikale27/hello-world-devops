@@ -3,6 +3,9 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h3>This is Sachin Dhikale Who Edit the file 10th times</h3>
+    <br>
+    <h2> Quote of the Day: </h2>
+    <h4>Life is 10% what happens to you and 90% how you react to it.</h4>
 
 
 
